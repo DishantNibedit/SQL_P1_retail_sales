@@ -32,7 +32,7 @@ drop table if exists retail_sales
 
 
 --CREATING A TABLE
-create table retail_sales(transactions_id int primary key
+create table retail_sales(transactions_id int primary key,
 			  sale_date date,
                           sale_time time,
                           customer_id int,
