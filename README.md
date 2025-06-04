@@ -277,7 +277,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 
 
-- **Instagram**: [(https://www.instagram.com/__dishant.04__/)]
-- **LinkedIn**: [(https://www.linkedin.com/in/dishant-nibedit-b1a8b8246/)]
+- **Instagram**: https://www.instagram.com/__dishant.04__/
+- **LinkedIn**: https://www.linkedin.com/in/dishant-nibedit-b1a8b8246/
 
 Thank you for your support, and I look forward to connecting with you!
